@@ -12,7 +12,6 @@
 ### About Me
 
 - 🎓 M.Tech in **AI & Data Science (Cyber Security)** @ National Forensic Sciences University, Goa — CGPA 9.2
-- 🛡️ Currently a **Platform Security Engineering Intern @ Hollyflower Inc**, running SIEM/SOAR detection & response
 - 🏢 Previously interned at **John Deere India** on the GSEC Platform Security team — Okta identity governance & Splunk forensics
 - 🚩 Co-founder of **[0bscuri7y](https://ctftime.org/team/370140)** — currently **ranked #4 in India** (worldwide #32) on [CTFtime](https://ctftime.org/stats/IN)
 - 🤖 Active AI red teamer on **Gray Swan AI**, probing frontier LLMs for jailbreaks and safety-filter bypasses
