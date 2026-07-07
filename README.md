@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vatsal-lavari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vatyctf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ctftime.org/"><img src="https://img.shields.io/badge/CTFtime-0bscuri7y-000000?style=for-the-badge" /></a>
+  <a href="https://ctftime.org/team/370140"><img src="https://img.shields.io/badge/CTFtime-0bscuri7y_%234_IN-000000?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🎓 M.Tech in **AI & Data Science (Cyber Security)** @ National Forensic Sciences University, Goa — CGPA 9.2
 - 🛡️ Currently a **Platform Security Engineering Intern @ Hollyflower Inc**, running SIEM/SOAR detection & response
 - 🏢 Previously interned at **John Deere India** on the GSEC Platform Security team — Okta identity governance & Splunk forensics
-- 🚩 Co-founder of **[0bscuri7y](https://ctftime.org/)** — ranked **3rd in India** on CTFtime
+- 🚩 Co-founder of **[0bscuri7y](https://ctftime.org/team/370140)** — currently **ranked #4 in India** (worldwide #32) on [CTFtime](https://ctftime.org/stats/IN)
 - 🤖 Active AI red teamer on **Gray Swan AI**, probing frontier LLMs for jailbreaks and safety-filter bypasses
 - 🔍 Into reverse engineering, binary exploitation, cryptography, and adversarial ML
 - 📄 CEH (EC-Council) and CRTA (CyberWarFare Labs) certified
@@ -37,6 +37,8 @@
 | Flag Hunter 2.0 – Securium Solutions | 🥇 1st (Solo) | Web, crypto, forensics jeopardy CTF |
 | NCIIPC-AICTE Pentathon 2025 | 5th (Team 0bscuri7y) | x86→x64 binary patching, pwn, crypto, OT |
 | HTB Cyber Apocalypse 2025 – AI/LLM Track | Team 0bscuri7y | Indirect prompt injection & token-filter bypass |
+
+**0bscuri7y — [Live CTFtime India ranking](https://ctftime.org/stats/IN):** Country Rank **#4** · Worldwide Rank **#32** · Rating **455.576** · 29 events
 
 ---
 
