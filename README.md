@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vatsal Lavari 👋</h1>
+<h1 align="center">Hi, I'm Vatsal Lavari aka vaty 👋</h1>
 <h3 align="center">Cybersecurity Engineer · AI Red Teamer · Co-founder team @0bscuri7y</h3>
 
 <p align="center">
