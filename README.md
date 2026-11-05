@@ -13,7 +13,7 @@
 
 - 🎓 M.Tech in **AI & Data Science (Cyber Security)** @ National Forensic Sciences University, Goa — CGPA 9.2
 - 🏢 Previously interned at **John Deere India** on the GSEC Platform Security team — Okta identity governance & Splunk forensics
-- 🚩 Co-founder of ctf team **[0bscuri7y](https://ctftime.org/team/370140)** — currently **ranked #4 in India** (worldwide #32) on [CTFtime](https://ctftime.org/stats/IN)
+- 🚩 Co-founder of ctf team **[0bscuri7y](https://ctftime.org/team/370140)** — currently **ranked #6 in India** (worldwide #32) on [CTFtime](https://ctftime.org/stats/IN)
 - 🤖 Active AI red teamer on **Gray Swan AI**, probing frontier LLMs for jailbreaks and safety-filter bypasses
 - 🔍 Into reverse engineering, binary exploitation, cryptography, and adversarial ML
 - 📄 CEH (EC-Council) and CRTA (CyberWarFare Labs) certified
