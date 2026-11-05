@@ -37,7 +37,7 @@
 | NCIIPC-AICTE Pentathon 2025 | 5th (Team 0bscuri7y) | x86→x64 binary patching, pwn, crypto, OT |
 | HTB Cyber Apocalypse 2025 – AI/LLM Track | Team 0bscuri7y | Indirect prompt injection & token-filter bypass |
 
-**0bscuri7y — [Live CTFtime India ranking](https://ctftime.org/stats/IN):** Country Rank **#4** · Worldwide Rank **#32** · Rating **455.576** · 29 events
+**0bscuri7y — [Live CTFtime India ranking](https://ctftime.org/stats/IN):** Country Rank **#6** · Worldwide Rank **#32** · Rating **455.576** · 29 events
 
 ---
 
