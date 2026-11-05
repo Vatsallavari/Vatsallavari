@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/vatsal-lavari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vatyctf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ctftime.org/team/370140"><img src="https://img.shields.io/badge/CTFtime-0bscuri7y_%234_IN-000000?style=for-the-badge" /></a>
 </p>
 
 ---
